@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(82, 124, 65, 0.548);
+    height: 100vh;
+    display: flex; justify-content: center;align-items: center;
+}
+main{
+    text-align: center;
+    margin: auto auto;
+    background-color: rgba(105, 86, 86, 0.637);
+    border: 10px;
+    border-color: black;
+    width: 300px;
+    height: 400px;
+}
